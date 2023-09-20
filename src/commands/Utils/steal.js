@@ -14,7 +14,7 @@ module.exports = {
    pack = anu[0] !== '' ? anu[0] : 'Stress'
    author = anu[1] !== '' ? anu[1] : 'Giver'
    } else {
-       pack = 'Stress'
+       pack = 'TIKU'
        author = 'Giver'
        }
 if(/webp/.test(mime)) {
