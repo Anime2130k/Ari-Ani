@@ -25,7 +25,7 @@ var caption =
 📎 *Repo Link:* ${ariAni.data.html_url} \n
 🌠 *Total Star:* ${ariAni.data.stargazers_count}\n
 💕 *Total Forks:* ${ariAni.data.forks} \n
-💁🏻‍♂️ *Tutorial:* https://www.youtube.com/watch?v=KqgyScOlvV8 \n`
+💁🏻‍♂️ *Tutorial:* https://chat.whatsapp.com/E5dNeqOHEjr6zzduSyDNPZ \n`
 await client.sendMessage(m.from,{image:{url:random}, caption:caption},{quoted:m})
     }
 }
