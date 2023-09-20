@@ -21,7 +21,7 @@ module.exports = {
 let random = images[Math.floor(Math.random() * images.length)]
 
 var caption = 
-`✨ _*KHUSHI*_  ✨\n\n🍀 *Description:* ${ariAni.data.description}\n
+`✨ _*KHUSHI🧸*_  ✨\n\n🍀 *Description:* ${ariAni.data.description}\n
 📎 *Repo Link:* ${ariAni.data.html_url} \n
 🌠 *Total Star:* ${ariAni.data.stargazers_count}\n
 💕 *Total Forks:* ${ariAni.data.forks} \n
