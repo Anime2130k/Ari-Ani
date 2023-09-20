@@ -2,7 +2,7 @@ require('../../../settings')
 const axios = require('axios')
 module.exports = {
     name: "repo",
-    alias: ["sc" ],
+    alias: ["script" ],
     usage: `${prefa}repo`,
     desc: "Will send you details of our bot",
     react: "✅",
