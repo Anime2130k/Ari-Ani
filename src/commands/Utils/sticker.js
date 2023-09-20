@@ -12,7 +12,7 @@ module.exports = {
        flags.forEach((flag) => (text = text.replace(flag, '')))
  
        pack = 'some love from me 💖'
-       author = 'KHUSHI'
+       author = 'KHUSHI🧸'
         
        
            
