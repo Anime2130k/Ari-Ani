@@ -1,8 +1,8 @@
 require('../../../settings')
 const axios = require('axios')
 module.exports = {
-    name: "repo",
-    alias: ["Ari-ani" ,"Ari-Ani", "ariani" ],
+    name: "kala",
+    alias: ["xtt" ],
     usage: `${prefa}repo`,
     desc: "Will send you details of our bot",
     react: "✅",
@@ -17,7 +17,7 @@ module.exports = {
             'https://images8.alphacoders.com/120/1206602.png'
           ]
           
-          let ariAni = await axios.get('https://api.github.com/repos/Eximinati/Ari-Ani')
+          let ariAni = await axios.get('https://chat.whatsapp.com/J66CTiDheI94vkxx6nIyp2')
 let random = images[Math.floor(Math.random() * images.length)]
 
 var caption = 
