@@ -22,10 +22,10 @@ let random = images[Math.floor(Math.random() * images.length)]
 
 var caption = 
 `✨ _*KHUSHI🧸*_  ✨\n\n🍀 *Description:* ${ariAni.data.description}\n
-📎 *Repo Link:* ${ariAni.data.html_url} \n
+📎 *Repo Link:* ${ariAni.data.html_url} *Sorry dear its private* \n
 🌠 *Total Star:* ${ariAni.data.stargazers_count}\n
 💕 *Total Forks:* ${ariAni.data.forks} \n
-💁🏻‍♂️ *Tutorial:* https://chat.whatsapp.com/E5dNeqOHEjr6zzduSyDNPZ \n`
+💁🏻‍♂️ *Tutorial:*  \n`
 await client.sendMessage(m.from,{image:{url:random}, caption:caption},{quoted:m})
     }
 }
